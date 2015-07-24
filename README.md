@@ -15,6 +15,9 @@ Water 1
 *Water 1* covers the basics of hydrology and water quality. As part of this course, each student performed a small analysis on a water-related topic. The students defined the research question themselves, collected data, analysed the data and presented the results as a poster (in Dutch). The posters were evaluated through peer review, improved and eventually posted on this website. 
 
 
+![Cover of the lecture notes](figs/lecture_notes_water1.png)
+
+
 Map with posters
 ------
 
