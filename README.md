@@ -36,4 +36,4 @@ More information
 - MSc programme [Earth and Environment](http://www.wageningenur.nl/en/Education-Programmes/prospective-master-students/MSc-programmes/MSc-Earth-and-Environment.htm)
 
 
-![Map with posters](figs/logo_WU.png)
+![Wageningen University](figs/logo_WU.png)
