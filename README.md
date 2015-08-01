@@ -1,9 +1,8 @@
 
 Student posters for *Water 1*
-=====
-
-Water 1
 -----
+
+**Water 1**
 
 [Water 1](https://ssc.wur.nl/Studiegids/Vak/HWM-10303) is a first-year BSc course on water sciences at Wageningen University, compulsory for all students from 5 BSc programmes: 
 - [Soil, water, atmosphere](http://www.wageningenur.nl/nl/Onderwijs-Opleidingen/Studiekiezers-bachelor/BSc-opleidingen/BSc-Bodem-Water-Atmosfeer.htm)
@@ -18,8 +17,7 @@ Water 1
 ![Cover of the lecture notes](figs/lecture_notes_water1.png)
 
 
-Map with posters
-------
+**Map with posters**
 
 - Click [**here**](http://rawgit.com/ClaudiaBrauer/Water1/master/map_posters_water1.html) to go to the interactive version of the map below. 
 - Click on the markers in the interactive map to get a popup with a short description. 
@@ -28,8 +26,7 @@ Map with posters
 ![Map with posters](figs/map_posters_water1.jpg)
 
 
-More information
------
+**More information**
 
 - [Wageningen University](http://www.wageningenur.nl/en.htm)
 - The course [Water 1](https://ssc.wur.nl/Studiegids/Vak/HWM-10303)
