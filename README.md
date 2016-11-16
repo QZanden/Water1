@@ -19,7 +19,7 @@ Student posters for *Water 1*
 
 **Map with posters**
 
-- Click [**here**](http://rawgit.com/ClaudiaBrauer/Water1/master/map_posters_water1.html) to go to the interactive version of the map below. 
+- Click [**here**](https://cdn.rawgit.com/ClaudiaBrauer/Water1/master/map_posters_water1.html) to go to the interactive version of the map below. 
 - Click on the markers in the interactive map to get a popup with a short description. 
 - Click on the link in the popup to view the poster.
 
