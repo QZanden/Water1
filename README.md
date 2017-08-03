@@ -33,4 +33,5 @@ Student posters for *Water 1*
 - MSc programme [Earth and Environment](http://www.wageningenur.nl/en/Education-Programmes/prospective-master-students/MSc-programmes/MSc-Earth-and-Environment.htm)
 
 &nbsp;
+
 ![Wageningen University](figs/logo_WUR_small.png)
