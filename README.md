@@ -32,5 +32,5 @@ Student posters for *Water 1*
 - The course [Water 1](https://ssc.wur.nl/Studiegids/Vak/HWM-10303)
 - MSc programme [Earth and Environment](http://www.wageningenur.nl/en/Education-Programmes/prospective-master-students/MSc-programmes/MSc-Earth-and-Environment.htm)
 
-
+&nbsp;
 ![Wageningen University](figs/logo_WUR_small.png)
